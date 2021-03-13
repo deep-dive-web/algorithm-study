@@ -18,7 +18,7 @@ public class HIndex {
 
             int num = citations[i];
             int count = len - i;
-            if (len - i <= num) {
+            if (count <= num) {
                 h = count;
                 break;
             }

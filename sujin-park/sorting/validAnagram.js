@@ -1,4 +1,5 @@
 /**
+ * Leetcode - 242. Valid Anagram
  * @param {string} s
  * @param {string} t
  * @return {boolean}

@@ -65,6 +65,6 @@
   * 윈도 시스템의 메시지 처리기
   * 프로세스 관리
 
----
+----
 
 * 참고: [스택](https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html) / [큐](https://gmlwjd9405.github.io/2018/08/02/data-structure-queue.html)

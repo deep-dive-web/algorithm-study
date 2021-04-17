@@ -17,7 +17,7 @@ const findJudge = function(N, trust) {
   
   for (let i = 0; i < N; i++) {
       if (!truster[i] && trustee[i] === N - 1) {
-        return i;
+        return i + 1;
       }
   }
   
